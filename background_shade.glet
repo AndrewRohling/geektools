@@ -41,7 +41,7 @@
 	<key>FontSize</key>
 	<real>10</real>
 	<key>GeekletFrame</key>
-	<string>{{0, 0}, {460, 800}}</string>
+	<string>{{0, 0}, {460, 1050}}</string>
 	<key>Identifier</key>
 	<string>org.tynsoe.geeklet.shell</string>
 	<key>Name</key>
