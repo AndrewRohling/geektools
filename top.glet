@@ -34,13 +34,13 @@
 	AQACAAABUwADAAAABAAABLIAAAAAAAgACAAIAAgAAQABAAEAAQ==
 	</data>
 	<key>FontFamily</key>
-	<string>Futura-Medium</string>
+	<string>BlairMdITCTT-Medium</string>
 	<key>FontSize</key>
-	<real>14</real>
+	<real>10</real>
 	<key>ForceCR</key>
 	<false/>
 	<key>GeekletFrame</key>
-	<string>{{-1292, 401}, {324, 375}}</string>
+	<string>{{0, 330}, {442, 375}}</string>
 	<key>HasShadow</key>
 	<false/>
 	<key>Identifier</key>
