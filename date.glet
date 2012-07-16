@@ -63,7 +63,7 @@ print $1 " "$2" "$3", "$6}';</string>
 	<key>FontSize</key>
 	<real>24</real>
 	<key>GeekletFrame</key>
-	<string>{{52, 80}, {400, 30}}</string>
+	<string>{{-1, 294}, {442, 30}}</string>
 	<key>HasShadow</key>
 	<false/>
 	<key>Identifier</key>

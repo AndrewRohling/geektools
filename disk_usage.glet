@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Command</key>
-	<string>df | grep disk0s2 | awk '{print $5}'</string>
+	<string>df | grep disk1 | awk '{print $5}'</string>
 	<key>DropShadow</key>
 	<false/>
 	<key>FailureImage</key>
@@ -38,7 +38,7 @@
 	<key>FontSize</key>
 	<real>52</real>
 	<key>GeekletFrame</key>
-	<string>{{240, 257}, {215, 60}}</string>
+	<string>{{0, 232}, {442, 60}}</string>
 	<key>HasShadow</key>
 	<false/>
 	<key>Identifier</key>
@@ -52,14 +52,14 @@
 	<key>SetLocale</key>
 	<true/>
 	<key>ShadowBlur</key>
-	<real>1.9746767282485962</real>
+	<real>8.8442888259887695</real>
 	<key>ShadowColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
 	ZmZmAAAAg6uqqj6G
 	</data>
 	<key>ShadowSize</key>
-	<string>{2.0549708843796033, -2.0549708843796042}</string>
+	<string>{2.7401767289646597, -2.7401767289646601}</string>
 	<key>SuccessImage</key>
 	<data>
 	TU0AKgAABAj///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANAAAAGgAAACAAAAAaAAAA

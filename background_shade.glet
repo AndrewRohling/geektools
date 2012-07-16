@@ -42,10 +42,14 @@
 	<real>10</real>
 	<key>GeekletFrame</key>
 	<string>{{0, 0}, {460, 1050}}</string>
+	<key>HasShadow</key>
+	<false/>
 	<key>Identifier</key>
 	<string>org.tynsoe.geeklet.shell</string>
 	<key>Name</key>
-	<string>Background shade</string>
+	<string>background_shade</string>
+	<key>SetLocale</key>
+	<true/>
 	<key>SuccessImage</key>
 	<data>
 	TU0AKgAABAj///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANAAAAGgAAACAAAAAaAAAA

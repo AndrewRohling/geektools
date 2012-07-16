@@ -46,7 +46,7 @@ esac</string>
 	<key>FontSize</key>
 	<real>14</real>
 	<key>GeekletFrame</key>
-	<string>{{236, 150}, {215, 15}}</string>
+	<string>{{0, 114}, {442, 15}}</string>
 	<key>HasShadow</key>
 	<false/>
 	<key>Identifier</key>
