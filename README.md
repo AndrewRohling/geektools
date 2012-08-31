@@ -7,7 +7,6 @@ available vie the AppStore.
 See [http://www.macosxtips.co.uk/geeklets/](http://www.macosxtips.co.uk/geeklets/) for
 more Geeklets.
 
-
 Install background_shade.glet first then everything else.
 --
 
